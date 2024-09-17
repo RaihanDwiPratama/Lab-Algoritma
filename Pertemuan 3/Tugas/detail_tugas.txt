@@ -1,0 +1,5 @@
+1. Jelaskan perbedaan dari penempatan notasi di depan variable (--A/++A) dengan penempatan notasi di belakang variable (A--/A++)
+
+2. Buatlah program menghitung luas lingkaran dan volume tabung menggunakan c++
+
+3. Jelaskan kode program pada file kode_tugas.cpp 
