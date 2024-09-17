@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-	int a, b, c = 0, d= 0;
+	int a, b, c = 0, d = 0;
 	
 	cout << "Masukkan nilai A: ";
 	cin >> a;
