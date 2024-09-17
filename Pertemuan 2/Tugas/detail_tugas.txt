@@ -1,0 +1,3 @@
+1. Sebutkan dan jelaskan 5 syntax error pada saat me running program!
+2. Buatlah flowchart dari file tugas_1.cpp
+3. Perbaiki kode program untuk menghitung Harga total pada file tugas_1.cpp

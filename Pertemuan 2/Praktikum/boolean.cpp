@@ -1,0 +1,22 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	bool benar;
+	int x, y;
+	
+	cout << "Nilai x: ";
+	cin >> x;
+	cout << "Nilai y: ";
+	cin >> y;
+	
+	benar = x < y;
+	
+	if(benar == true) {
+		cout << "x lebih kecil dari y";
+	} else {
+		cout << "x lebih besar dari y";
+	}
+	
+	return 0;
+}
