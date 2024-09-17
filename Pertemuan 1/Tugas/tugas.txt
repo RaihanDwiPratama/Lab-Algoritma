@@ -1,0 +1,6 @@
+1. Sebutkan perbedaan antara interpreter dengan compiler di C++?
+2. Apa saja kegunaan dari C++?
+3. Mengapa kita perlu mempelajari C++?
+4. Bagaimana Bahasa pemrograman seperti C dan C++ berkomunikasi dengan hardware?
+5. Push 3 versi file pemrograman hello world yang sudah anda buat ke dalam repository GitHub menggunakan git dash.
+6. Buatlah program mencetak tulisan "Belajar Coding di Kelas Algoritma" sebanyak 5 kali dengan Bahasa C dan C++! 
